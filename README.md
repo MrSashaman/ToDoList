@@ -51,6 +51,7 @@ Auto-save on exit / auto-load on startup
 
 Refactor logic into separate classes
 
-
+> [!NOTE]
+>THIS IS MY STUDY PROJECT
 
 
